@@ -1,0 +1,160 @@
+[
+  {
+    "name": "Hotline",
+    "image": "hotline.png",
+    "isNew": true,
+    "isHighLimit": true,
+    "type": "new"
+  },
+  {
+    "name": "Near Jungle",
+    "image": "jungle.png",
+    "isNew": true,
+    "isHighLimit": true,
+    "type": "new"
+  },
+  {
+    "name": "3 Hit Pay",
+    "image": "3hitpay.png",
+    "isNew": false,
+    "isHighLimit": false,
+    "type": null
+  },
+  {
+    "name": "Day of the Dead",
+    "image": "dayofdead.png",
+    "isNew": false,
+    "isHighLimit": false,
+    "type": null
+  },
+  {
+    "name": "Dr Jekyll and Mr Hide",
+    "image": "drjekyll.png",
+    "isNew": false,
+    "isHighLimit": false,
+    "type": null
+  },
+  {
+    "name": "Day of the Dead",
+    "image": "dayofdead.png",
+    "isNew": false,
+    "isHighLimit": false,
+    "type": "top"
+  },
+  {
+    "name": "Sea of Tranquility",
+    "image": "sea.png",
+    "isNew": true,
+    "isHighLimit": true,
+    "type": "top"
+  },
+  {
+    "name": "Aloha",
+    "image": "aloha.png",
+    "isNew": true,
+    "isHighLimit": true,
+    "type": "top"
+  },
+  {
+    "name": "Dr Jekyll and Mr Hide",
+    "image": "drjekyll.png",
+    "isNew": false,
+    "isHighLimit": false,
+    "type": "top"
+  },
+  {
+    "name": "Day of the Dead",
+    "image": "dayofdead.png",
+    "isNew": false,
+    "isHighLimit": false,
+    "type": null
+  },
+  {
+    "name": "Dr Jekyll and Mr Hide",
+    "image": "drjekyll.png",
+    "isNew": false,
+    "isHighLimit": false,
+    "type": "top"
+  },
+  {
+    "name": "fruit spin",
+    "image": "fruitspin.png",
+    "isNew": false,
+    "isHighLimit": false,
+    "type": null
+  },
+  {
+    "name": "jack hammer",
+    "image": "jackhammer.png",
+    "isNew": false,
+    "isHighLimit": false,
+    "type": null
+  },
+  {
+    "name": "spinata grande",
+    "image": "spinata.png",
+    "isNew": false,
+    "isHighLimit": false,
+    "type": null
+  },
+  {
+    "name": "sugar smash",
+    "image": "sugar.png",
+    "isNew": false,
+    "isHighLimit": false,
+    "type": null
+  },
+  {
+    "name": "jumanji",
+    "image": "jumanji.png",
+    "isNew": false,
+    "isHighLimit": false,
+    "type": null
+  },
+  {
+    "name": "fa fa twins",
+    "image": "fafatwins.png",
+    "isNew": false,
+    "isHighLimit": false,
+    "type": null
+  },
+  {
+    "name": "hot gems",
+    "image": "hotgems.png",
+    "isNew": false,
+    "isHighLimit": false,
+    "type": null
+  },
+  {
+    "name": "gonzo quest",
+    "image": "gonzoquest.png",
+    "isNew": false,
+    "isHighLimit": false,
+    "type": null
+  },
+
+
+  {
+    "name": "Hotline",
+    "image": "hotline.png",
+    "isNew": true,
+    "isHighLimit": true,
+    "type": null
+  },
+  {
+    "name": "fruit spin",
+    "image": "fruitspin.png",
+    "isNew": false,
+    "isHighLimit": false,
+    "type": null
+  },
+
+
+  {
+    "name": "spinata grande",
+    "image": "spinata.png",
+    "isNew": true,
+    "isHighLimit": false,
+    "type": "new"
+  }
+]

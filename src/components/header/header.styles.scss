@@ -1,0 +1,62 @@
+.logo {
+  width: 200px;
+
+  img {
+    width: 100%;
+  }
+}
+
+.menu {
+  list-style-type: none;
+  margin: 0;
+  padding-top: 32px;
+
+  &-item {
+    margin: 0 16px;
+
+    a {
+      font-size: 14px;
+      text-transform: uppercase;
+      color: #707070;
+      align-items: center;
+      cursor: pointer;
+      background-position: top center;
+      background-size: 24px;
+      padding: 32px 12px 0 12px;
+      background-repeat: no-repeat;
+
+      &.active {
+        color: #00A9E0;
+      }
+
+      &.all {
+        background-image: url(../../assets/menu/all.png);
+
+        &.active {
+          background-image: url(../../assets/menu/all-active.png);
+
+        }
+      }
+        &.new {
+            background-image: url(../../assets/menu/new.png);
+
+            &.active {
+                background-image: url(../../assets/menu/new-active.png);
+
+            }
+        }
+        &.top {
+            background-image: url(../../assets/menu/top.png);
+
+            &.active {
+                background-image: url(../../assets/menu/top-active.png);
+
+            }
+        }
+    }
+
+    &:last-child {
+      margin-right: 76px;
+    }
+  }
+}
